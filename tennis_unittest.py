@@ -2,7 +2,8 @@ import unittest
 
 from tennis1 import TennisGame1
 from tennis2 import TennisGame2
-from tennis3 import TennisGame3
+# from tennis3 import TennisGame3
+from tennis3_refactored import TennisGame3
 from tennis4 import TennisGame4
 from tennis5 import TennisGame5
 from tennis6 import TennisGame6

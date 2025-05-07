@@ -74,3 +74,12 @@ target/
 venv
 
 .idea
+
+# PyCharm project files
+.idea/
+
+# Virtual environments (if stored inside project)
+venv/
+ENV/
+env.bak/
+*.env
